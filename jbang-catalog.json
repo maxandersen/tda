@@ -1,0 +1,11 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "tda": {
+      "script-ref": "bin/tda.jar",
+      "enable-preview": false,
+      "java-agents": []
+    }
+  },
+  "templates": {}
+}
