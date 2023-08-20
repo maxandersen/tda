@@ -7,7 +7,17 @@ It parses the thread dumps and class histograms from a provided log file.
 
 Other changes:
    * Update build system to Maven
-   *
+   * launchable with jbang
+
+### Run
+
+Install jbang from https://jbang.dev
+
+Run: 
+
+```
+jbang tda@maxandersen/tda
+```
 
 ### Java 1.8.x / 1.7.x
 * Checkout latest tag from github
